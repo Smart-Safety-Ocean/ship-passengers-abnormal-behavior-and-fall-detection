@@ -31,7 +31,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection">
+    <!--
     <img src="images/logo.png" alt="Logo" width="80" height="80">
+    -->
   </a>
 
 <h3 align="center">Open Source Algorithm for detecting ship passengers’ abnormal behaviors and fall accidents</h3>
