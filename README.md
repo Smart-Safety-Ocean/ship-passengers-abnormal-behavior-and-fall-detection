@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     Preventing accident on ship and alert for help is the goal for the detection algorithm. Prevent more accidents, save more lives. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection/issues">Request Feature</a>
   </p>
 </div>
 
