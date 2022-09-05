@@ -18,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield][contributors-url]]
 [![Forks][forks-shield]][https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection/network/members]
 [![Stargazers][stars-shield]][https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection/stargazers]
 [![Issues][issues-shield]][https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection/issues]
