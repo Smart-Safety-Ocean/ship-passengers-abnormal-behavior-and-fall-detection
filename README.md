@@ -1,12 +1,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+
 
 
 
@@ -53,7 +47,7 @@
 </div>
 
 
-
+ 
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -89,14 +83,18 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Open Source CCTV based AI algorithm where it detects the abnormal behaviors of passengers on the ship to predict the possible accidents and warn the on board sailors. And when the CCTV catches the actual accidents the algorithm will alert the incidents and the current accident location to near by Coast Guards in real time in order to increase the rescue rate for the fallen pessengers
+
+<!--Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-* `tensorflow`
+* `Jupyter Lab`
+* `TensorFlow`
+* `Python`
 * ...
 <!--
 * [![Next][Next.js]][Next-url]
@@ -108,8 +106,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-
 -->
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -123,11 +122,18 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Tensorflow
   ```sh
-  npm install npm@latest -g
+   install  -g
   ```
-
+* PyTorch
+  ```sh
+  something
+  ```
+* Jupyter Lab
+  ```sh
+  something
+  ```
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -135,9 +141,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Arakim44/ship-passengers-abnormal-behavior-and-fall-detection.git
    ```
-3. Install NPM packages
+3. Install packages
    ```sh
-   npm install
+    install
    ```
 4. Enter your API in `config.js`
    ```js
